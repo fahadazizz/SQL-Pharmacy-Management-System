@@ -21,13 +21,13 @@ Admin => <br/>
 2: Seller. <br/>
 3: Invoice Genertion. <br/>
 
-
-Things used in Project:
-1: Basic SQL.
-2: Joins.
-3: Primary, Foriegn Key.
-4: Normalization.
-5: SQL Operations.
-6: Allies.
-7: Group By.
-7: Relations.
+<br/><br/>
+Things used in Project: <br/>
+1: Basic SQL. <br/>
+2: Joins. <br/>
+3: Primary, Foriegn Key. <br/>
+4: Normalization. <br/>
+5: SQL Operations. <br/>
+6: Allies. <br/>
+7: Group By. <br/>
+7: Relations. <br/>
